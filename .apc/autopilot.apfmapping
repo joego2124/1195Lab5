@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="convolution.cpp" path="C:\Xilinx\lab5_template\vhls\convolution.cpp"/>
+    <originFiles name="convolution.hpp" path="C:\Xilinx\lab5_template\vhls\convolution.hpp"/>
+    <originFiles name="image.cpp" path="C:\Xilinx\lab5_template\vhls\image.cpp"/>
+    <originFiles name="image.hpp" path="C:\Xilinx\lab5_template\vhls\image.hpp"/>
+    <originFiles name="rock512.pgm" path="C:\Xilinx\lab5_template\vhls\rock512.pgm"/>
+    <originFiles name="convolution.cpp" path="C:\Xilinx\lab5_template\vhls\convolution.cpp"/>
+    <originFiles name="convolution.hpp" path="C:\Xilinx\lab5_template\vhls\convolution.hpp"/>
+    <originFiles name="image.cpp" path="C:\Xilinx\lab5_template\vhls\image.cpp"/>
+    <originFiles name="image.hpp" path="C:\Xilinx\lab5_template\vhls\image.hpp"/>
+    <originFiles name="rock512.pgm" path="C:\Xilinx\lab5_template\vhls\rock512.pgm"/>
+  </source>
+  <testbench>
+    <originFiles name="testbench.cpp" path="C:\Xilinx\lab5_template\vhls\testbench.cpp"/>
+    <originFiles name="testbench.cpp" path="C:\Xilinx\lab5_template\vhls\testbench.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

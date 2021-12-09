@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('lbuf_0_load_3', lab5_template/vhls/convolution.cpp:127) on array 'lbuf[0]', lab5_template/vhls/convolution.cpp:85 due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'lbuf_0'." projectName="Lab_5" solutionName="solution1" date="2021-12-09T03:36:50.752-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-68] The II Violation in module 'hw_conv': Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1)&#xD;&#xA;   between 'store' operation (lab5_template/vhls/convolution.cpp:127) of variable 'lbuf_0_load', lab5_template/vhls/convolution.cpp:127 on array 'lbuf[0]', lab5_template/vhls/convolution.cpp:85 and 'load' operation ('kbuf[0][2]', lab5_template/vhls/convolution.cpp:116) on array 'lbuf[0]', lab5_template/vhls/convolution.cpp:85." projectName="Lab_5" solutionName="solution1" date="2021-12-09T03:36:10.805-0500" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Skipped source file 'rock512.pgm'. Source files must have extensions .c, .C, .cc, .cpp, .c++, .cp, or .cxx." projectName="Lab_5" solutionName="solution1" date="2021-12-09T03:35:27.307-0500" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>
